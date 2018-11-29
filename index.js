@@ -2,7 +2,7 @@
  * @class TCidGen
  * @classdesc
  *
- * Rasgele T.C. Kimlik Numarası oluşturma. T.C. Kimlik numarasının ilk 9 rakamı rasgele. 10 ve 11. rakamları
+ * Rasgele T.C. Kimlik Numarası oluşturma. T.C. Kimlik numarasının ilk 9 rakamı rasgele, 10 ve 11. rakamları
  * ise ilk 9 rakamın matematiksel olarak işlenmesiyle oluşur. Matematik işlemi oldukça basittir;
  *
  * r<N>: Rasgele Rakamlar
