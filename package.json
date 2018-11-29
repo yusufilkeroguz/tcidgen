@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yusufilkeroguz/tcgen.git"
+    "url": "git+https://github.com/yusufilkeroguz/tcidgen.git"
   },
   "keywords": [
     "tc",
@@ -22,7 +22,7 @@
   "author": "Yusuf İlker Oğuz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yusufilkeroguz/tcgen/issues"
+    "url": "https://github.com/yusufilkeroguz/tcidgen/issues"
   },
   "homepage": "https://github.com/yusufilkeroguz/tcgen#readme"
 }
