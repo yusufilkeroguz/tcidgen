@@ -1,4 +1,4 @@
-#TCidGen
+# TCidGen
 
 Generate Republic of Turkey Identification Number
 
@@ -20,7 +20,7 @@ const generateTCKN = require('./tcidgen') // 02345678982
 
 ### About This Package
 
-T.C. Kimlik numarasının ilk 9 rakamı rasgele, 10 ve 11. rakamları ise ilk 9 
+T.C. Kimlik numarasının ilk 9 rakamı rasgele (ilk rakam 0 olamaz), 10 ve 11. rakamları ise ilk 9 
 rakamın matematiksel olarak işlenmesiyle oluşur. Matematik işlemi oldukça basittir;
 
 **r(N)**: Rasgele Rakamlar
