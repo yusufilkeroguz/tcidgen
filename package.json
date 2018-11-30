@@ -1,6 +1,6 @@
 {
   "name": "tcidgen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate Republic of Turkey Identification Number",
   "main": "index.js",
   "scripts": {

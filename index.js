@@ -94,7 +94,11 @@ const getLastValues = () => {
 const generateTCKN = () => {
   repeat(generateNumber);
 
-  return getLastValues().join('')
+  const tempNumbers = getLastValues().join('')
+
+  numbers = []
+
+  return tempNumbers
 };
 
 module.exports = generateTCKN;
