@@ -14,7 +14,10 @@ npm i tcidgen
 
 ````javascript
 
-const generateTCKN = require('./tcidgen') // 02345678982 
+const generateTCKN = require('./tcidgen')
+
+generateTCKN() // 02345678982
+ 
 
 ````
 
